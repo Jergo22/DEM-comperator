@@ -19,3 +19,9 @@ It is a convenient tool to analyse different pipelines or datasets for DEM creat
 
   
 ## testing the plugin
+
+  You can test the plugin with the following DEMS.
+  
+  [data](https://www.dropbox.com/sh/4u7l2lkxm831ymp/AACZCXv4BmOYT2h9aqIHKtEYa?dl=0)
+  
+  
