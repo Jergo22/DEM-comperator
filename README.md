@@ -7,7 +7,7 @@ The candlestick is devided in different slope classes, the numbers of slope clas
 It is a convenient tool to analyse different pipelines or datasets for DEM creations. 
   
   
-## installation
+## Windows installation 
   you can download the plugin [here](https://github.com/Jergo22/DEM-comperator/archive/refs/heads/main.zip).
   
   
