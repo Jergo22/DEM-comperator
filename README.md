@@ -8,7 +8,7 @@ It is a convenient tool to analyse different pipelines or datasets for DEM creat
   
   
 ## installation
-  you can download from [repository]()
+  you can download from [repository](https://desktop.github.com/)
   
   1. unpack the zip file
   2. place the extracted folder in the Qgis plugin directory (\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins)
