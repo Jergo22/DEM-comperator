@@ -8,7 +8,7 @@ It is a convenient tool to analyse different pipelines or datasets for DEM creat
   
   
 ## installation
-  you can download from [repository](https://desktop.github.com/)
+  you can download the plugin [here]([https://desktop.github.com/](https://github.com/Jergo22/DEM-comperator/archive/refs/heads/main.zip))
   
   1. unpack the zip file
   2. place the extracted folder in the Qgis plugin directory (\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins)
